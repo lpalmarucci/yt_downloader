@@ -1,0 +1,10 @@
+
+#header{
+    margin-top: 1%;
+}
+
+#text-logo{
+    padding: 2px 1.5rem 2px 1.5rem;
+    border: 3px solid rgb(65, 65, 224);
+    border-radius: 25px;
+}
